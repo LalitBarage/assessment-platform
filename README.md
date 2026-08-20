@@ -1,4 +1,4 @@
-# Nexanova Assessment Platform
+# Assessment Platform
 
 This is the assessment platform project containing both backend and frontend applications.
 
